@@ -74,7 +74,6 @@
                                     <center><img
                                             src="https://www.iium.edu.my/media/68540/3.png"
                                             alt="qrcode" style="width:300px;height:400px;"></center>
-
                                 </tr>
                                 <br><br>
                                 <tr>
